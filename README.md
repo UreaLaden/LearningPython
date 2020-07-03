@@ -1,7 +1,7 @@
 # Learning Python
 These were some of my first projects when staring to learn Python. They range from Web Scrapers to simple Terminal Applications.
 
-Descriptions:
+# Descriptions
 
 dad_jokes.py: 
               Collects dad jokes from website and prints a random joke
@@ -26,3 +26,6 @@ send_email.py:
 
 BinCryptor_V1.0.py:
               Takes a piece of text and converts to binary code. That same binary code can then be converted back to readable text.
+
+HyperDrive:
+            One of my first attempts at using Pygame to make a 2D space shoot'em up. Images were left out for copyright reasons.
