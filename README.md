@@ -1,4 +1,4 @@
-# LearningPython
+# Learning Python
 These were some of my first projects when staring to learn Python. They range from Web Scrapers to simple Terminal Applications.
 
 Descriptions:
