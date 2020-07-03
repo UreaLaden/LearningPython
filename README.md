@@ -14,5 +14,6 @@ open_amu.py:
 
 phone_email_extractor.py: 
                         Scrapes all of the data currently copied on the clipboard and extracts every phone number and email address
+                        
 analyzer.py:
              Allows the user to manage investments or liabilities as well as provide recommendations on how to best pay off a given amount of debt. Used this project to experiment with classes and file intercommunication. Depends on loan_analyzer.py and investment_analyzer.py. 
