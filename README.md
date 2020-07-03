@@ -17,3 +17,6 @@ phone_email_extractor.py:
                         
 analyzer.py:
              Allows the user to manage investments or liabilities as well as provide recommendations on how to best pay off a given amount of debt. Used this project to experiment with classes and file intercommunication. Depends on loan_analyzer.py and investment_analyzer.py. 
+             
+GetStateList:
+              Scrapes an article containing the 50 states, extracting their full names and abbreviations then exporting to a CSV
