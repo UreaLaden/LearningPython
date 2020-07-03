@@ -1,6 +1,4 @@
-# Pygame template - skeleton for a new pygame project
-#Music by Matthew Pablo www.matthewpablo.com
-#Art from Kenney.nl
+
 import pygame
 import random 
 from os import path
