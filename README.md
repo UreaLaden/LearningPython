@@ -23,3 +23,6 @@ GetStateList.py:
 
 send_email.py:
               Reads text from a given text file and emails to the provided recipient 
+
+BinCryptop_V1.0.py:
+              Takes a piece of text and converts to binary code. That same binary code can then be converted back to readable text.
