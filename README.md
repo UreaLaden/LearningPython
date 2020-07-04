@@ -32,3 +32,6 @@ HyperDrive:
 
 book_timeline.py:
             Terminal Application that takes calculates how many minutes per day it will take to read a book.
+            
+codewars.py:
+          Automation script that opens firefox and goes to CodeWars.com then logs in.
