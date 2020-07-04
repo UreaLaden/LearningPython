@@ -3,7 +3,7 @@ import  time
 
 url = 'https://www.codewars.com'
 
-EMAIL= 'pytechdrae@gmail.com'
+EMAIL= 'myEmail@gmail.com'
 PASSWORD = 'myP@ssWord'
 
 def accessCodeWars(url,user_email=EMAIL,password=PASSWORD):
