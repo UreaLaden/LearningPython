@@ -10,7 +10,7 @@ moto_scrape.py:
               Collects daily motivational quotes from website and prints a random quote
 
 open_amu.py: 
-            Opens the firefox web browser, goes to American Military University's website's student 
+            Opens the firefox web browser, goes to American Military University's website and logs in 
 
 phone_email_extractor.py: 
                         Scrapes all of the data currently copied on the clipboard and extracts every phone number and email address
