@@ -4,7 +4,7 @@ import  time
 url = 'https://www.codewars.com'
 
 EMAIL= 'pytechdrae@gmail.com'
-PASSWORD = 'O603023626x'
+PASSWORD = 'myP@ssWord'
 
 def accessCodeWars(url,user_email=EMAIL,password=PASSWORD):
     browser = webdriver.Firefox()
