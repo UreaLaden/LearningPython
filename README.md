@@ -35,3 +35,6 @@ book_timeline.py:
             
 codewars.py:
           Automation script that opens firefox and goes to CodeWars.com then logs in.
+
+googleit.py:
+          Automation script that asks for search criteria then searches via Google
