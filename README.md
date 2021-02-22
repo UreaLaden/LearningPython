@@ -26,7 +26,17 @@ send_email.py:
 
 BinCryptor_V1.0.py:
               Takes a piece of text and converts to binary code. That same binary code can then be converted back to readable text.
-
+  <div>            
+ <iframe height="400px" width="100%" src="https://repl.it/@UreaLaden/Binary-Encryptor?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
+ <\div>
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
+  </iframe>
+</div>
 HyperDrive:
             One of my first attempts at using Pygame to make a 2D space shoot'em up. Images were left out for copyright reasons.
 
